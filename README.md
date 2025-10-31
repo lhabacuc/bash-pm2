@@ -266,7 +266,7 @@ Inspirado pelo [PM2](https://pm2.keymetrics.io/) para Node.js, mas feito em bash
 ## 📞 Suporte
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/lhabacuc/bash-pm2/issues)
-- 💬 **Discussões**: [GitHub Discussions](https://github.com/SEU-USER/bash-pm2/discussions)
+- 💬 **Discussões**: [GitHub Discussions](https://github.com/lhabacuc/bash-pm2/discussions)
 
 ---
 
